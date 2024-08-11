@@ -7,15 +7,16 @@ let cost=[0,0,0,0,0,0,0,0,0,0];
 let pdt=['','','','','','','','','','','']
 let price=[0,0,0,0,0,0,0,0,0,0];
 let butct=[0,0,0,0,0,0,0,0,0,0];
-let imadd=["","C:\\Users\\Abhijith12\\Desktop\\shoppingcart\\assets\\images\\image-waffle-desktop.jpg",
-"C:\\Users\\Abhijith12\\Desktop\\shoppingcart\\assets\\images\\image-creme-brulee-desktop.jpg",
-"C:\\Users\\Abhijith12\\Desktop\\shoppingcart\\assets\\images\\image-macaron-desktop.jpg",
-"C:\\Users\\Abhijith12\\Desktop\\shoppingcart\\assets\\images\\image-tiramisu-desktop.jpg",
-"C:\\Users\\Abhijith12\\Desktop\\shoppingcart\\assets\\images\\image-baklava-desktop.jpg",
-"C:\\Users\\Abhijith12\\Desktop\\shoppingcart\\assets\\images\\image-meringue-desktop.jpg",
-"C:\\Users\\Abhijith12\\Desktop\\shoppingcart\\assets\\images\\image-cake-desktop.jpg",
-"C:\\Users\\Abhijith12\\Desktop\\shoppingcart\\assets\\images\\image-brownie-desktop.jpg",
-"C:\\Users\\Abhijith12\\Desktop\\shoppingcart\\assets\\images\\image-panna-cotta-desktop.jpg"
+let imadd=["",
+"assets/images/image-waffle-desktop.jpg",
+"assets/images/image-creme-brulee-desktop.jpg",
+"assets/images/image-macaron-desktop.jpg",
+"assets/images/image-tiramisu-desktop.jpg",
+"assets/images/image-baklava-desktop.jpg",
+"assets/images/image-meringue-desktop.jpg",
+"assets/images/image-cake-desktop.jpg",
+"assets/images/image-brownie-desktop.jpg",
+"assets/images/image-panna-cotta-desktop.jpg",
 ];
 window.onload=function(){
     if(window.innerWidth<775){        
