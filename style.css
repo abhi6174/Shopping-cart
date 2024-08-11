@@ -334,9 +334,7 @@ p{
     justify-content: space-around;
     grid-template-columns: minmax(1em,2em) 17em minmax(1em,2em);
     grid-template-rows: 7em 24em 24em 24em 24em 24em 24em 24em  24em 24em 4em;
-    
     grid-column-gap: 2em;
-    margin-left:5%;
     font-family:"poppins";
     font-size:1em;
 }
